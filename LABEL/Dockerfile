@@ -1,4 +1,4 @@
 From almalinux:8
-Label tainer = "sivakumar" \
-      course = "devops"
+Label trainer="sivakumar" \
+      course="devops"
 
